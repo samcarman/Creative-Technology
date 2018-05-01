@@ -1,0 +1,23 @@
+Newcastle uses a range of different physical and virtual networks spanning the building and the country. Very bad errors (service affecting) can be caused by simple networking changes, so it is important that we keep networks well documented, organised, and communicated.
+
+Currently the state of networking is in flux as Sydney are planning to visit and finish the TV networks; which may have an effect on others throughout the building.
+
+== Current operational networks ==
+'''[[Original LAN]]'''
+
+LAN and internet serviced through telstra regular internet. Used by offices and wireless access points in the foyer and mezzanine. Aud 1 and 2 also use it for internet.
+
+'''[[Dante]]'''
+
+An audio-over-IP network spanning Auditorium 1 and reaching TV Control. It has automatic seamless fail-over redundancy, and uses zeroconf for IP addressing. Should be isolated from DHCP.
+
+'''[[TV control network]]'''
+
+Consisting of two 24 port smart cisco switches in the Control Room racks, this network provides a control network for video devices. Should be isolated from DHCP and secure.
+
+'''[[Hillsong network]]'''
+
+A virtual LAN between several Australian campuses through dedicated fibre. Carries the link and can provide LAN connection to devices at other campuses and the internet.
+
+== Network Resources ==
+[https://docs.google.com/spreadsheets/d/1O290vqxy1xLAAjR5LpqsQO3Rw-8OMwLAadm5JHTjYuQ/edit?usp=sharing Newcastle networks Document]

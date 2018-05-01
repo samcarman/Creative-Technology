@@ -1,0 +1,9 @@
+Welcome to the guides library. This resource aims to document processes required to run various parts of the Newcastle Campus creative technology service.
+
+This resource is brand new and hence will not offer a very wide range of guides to begin with. Over time it is our hope that most day-to-day processes will be documented here, and that they will remain updated and relevant.
+
+Please consider flagging the need for specific guides with a view to creating a priority system, and if there are processes you have knowledge of, please consider beginning the writing of that documentation. Also if you see any errors, please flag or edit them even if you don't know what it should be corrected/updated to.
+
+; Syntax
+
+: If creating a new Guide, please include <nowiki>[[Category:Guides]]</nowiki> at the top, and do not use "How To" in the title.

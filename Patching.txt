@@ -1,0 +1,29 @@
+
+== Video Patching ==
+Video patching occurs in two places inside the contorl room: soft/digital routing in the Black magic router, and physically - in the patch bays.
+
+Patch bays are labelled:
+* Rows: A, B, C, and D 
+* Inputs in each row are numbered from left to right.
+
+Hence the third input from the left in row A would be denoted "A3". A camble linking A3 to the 12th input in row B would be denoted "A3 ? B12"
+
+=== Common Patches ===
+Sunday services:
+* [Router input VMU5]     RTR IP 5  ? RTR OP 31  [Proj Truss – Centre]
+* [Router input VMU PGM]  RTR IP 10 ? RTR OP 32  [Proj Truss – Sides]
+
+
+FoH Desk to Centre Projector screen (Bypassing the control room)
+* Bypassing Control Room
+** D9 ? D10
+* Into Router
+** D9 ? B17 [Rtr IP 37]
+
+
+Background graphics from Resolume on Front Bench laptop
+* [Front Bench Tie 2]  A17 ? C20  [RTR IP 40]
+
+
+Confidence Camera temporary route (while mounted on Cam 2 tripod)
+* [Front of House Tie 3]  D7 ? B4  [RTR IP 24]

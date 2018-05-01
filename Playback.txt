@@ -1,0 +1,9 @@
+[[Category:Guides]]
+How to play videos using PVS
+
+PVS stands for Pro Video Server (name of the product), and is used to playback videos such as church news and testimony videos.
+It is controlled by the PVS app on the Producer’s iPad. Videos can be tested using the Production Monitor (see ‘Playback Controls’ guide).
+Make sure PVS is selected on PB1 or PB2 to ensure FOH receives the audio. (Ideally 1)
+
+See ‘Playback Controls’ guide for how to use the system.
+If required, click on the video inspector ? to modify the start and end point of the video. Please test the video after modification.

@@ -1,0 +1,16 @@
+[[Category:Networks]]
+"Dante" is a technology used to transfer audio signals between devices through IP based networks. It can do so with milliseconds worth of delay (imperceptible).
+
+Audio can enter a Dante network through various means:
+
+- Analogue signal plugged into a [[RIO box]] (through XLR cable) is digitized just as any Audio interface would for a computer, and is then send through network packets to destinations.
+
+- Digital audio from a laptop can be captured internally using [[Dante Virtual Soundcard]], which uses the laptops own ethernet port as an emulated sound card (looks like a sound card to programs on the computer).
+
+- Digital mixing desks either built for Dante, or using Dante expansion cards (or both).
+
+- Many other Dante compatible devices exist but most mirror these main types.
+
+Once captured, audio can be routed to any other Dante device on the network that is capable of receiving an audio feed.
+
+For example; four channels of audio (Left and right stereo, click, and cues) could be routed from a laptop to four individual channels on a mixing desk where they may be EQd and compressed. The left and right stereo channels could then be sent to an Audience, while the click and cues could be sent to special mixes for the band only.
